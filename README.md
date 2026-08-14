@@ -74,3 +74,9 @@ homework/
 第 3 組：⾃⼰設計的測試案例
 4. 計算每組句⼦之間的相似度
 5. 分析結果，驗證相似度是否符合預期
+
+作業截圖
+
+![alt text](img/image-5-1.png)
+![alt text](img/image-5-2.png)
+![alt text](img/image-5-3.png)
